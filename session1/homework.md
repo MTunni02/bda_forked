@@ -127,13 +127,13 @@ if __name__ == "__main__":
 
 | Provide your answer here. |
 | ------------------------- |
-|                           |
+| O(n)                          |
 
 11. Is this a computationally or data-intensive task?
 
 | Provide your answer here. |
 | ------------------------- |
-|                           |
+|  Data                         |
 
 12. Compare the following scripts; which one do you prefer and why?
 
@@ -168,9 +168,12 @@ if __name__ == "__main__":
 
 | Provide your answer here. |
 | ------------------------- |
-|                           |
+|  'reverse2' is better                         |
 
 12. What are the time and space complexities for reverse1 and reverse2?
+
+'reverse1':  Time:  O(n), space: -
+'reverse2':  Time:  O(n/2), space: -
 
 | Provide your answer here. |
 | ------------------------- |
