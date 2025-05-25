@@ -23,19 +23,19 @@ if __name__ == "__main__":
 
 | Provide your answer here. |
 | ------------------------- |
-|                           |
+|  O(n)                         |
 
 3. What is the space complexity of the above script?
 
 | Provide your answer here. |
 | ------------------------- |
-|                           |
+|  -                         |
 
 4. Is this a computationally or data-intensive task?
 
 | Provide your answer here. |
 | ------------------------- |
-|                           |
+| Computationally                          |
 
 > [!TIP]
 >
@@ -53,7 +53,7 @@ if __name__ == "__main__":
 
 | Provide your answer here. |
 | ------------------------- |
-|                           |
+| O(1)                          |
 
 6. What is the time complexity of the following code?
 
@@ -69,7 +69,7 @@ if __name__ == "__main__":
 
 | Provide your answer here. |
 | ------------------------- |
-|                           |
+| O(n)                          |
 
 7. What is the time complexity of the following code?
 
@@ -87,13 +87,13 @@ if __name__ == "__main__":
 
 | Provide your answer here. |
 | ------------------------- |
-|                           |
+| O(n)                          |
 
 8. Is this a computationally or data-intensive task?
 
 | Provide your answer here. |
 | ------------------------- |
-|                           |
+| Data intensive                          |
 
 9. What is the time complexity of the following code?
 
@@ -117,7 +117,7 @@ if __name__ == "__main__":
 
 | Provide your answer here. |
 | ------------------------- |
-|                           |
+|  O(n)                         |
 
 > [!IMPORTANT]
 >
