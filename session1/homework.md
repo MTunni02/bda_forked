@@ -172,11 +172,8 @@ if __name__ == "__main__":
 
 12. What are the time and space complexities for reverse1 and reverse2?
 
-'reverse1':  Time:  O(n), space: -
-'reverse2':  Time:  O(n/2), space: -
-
 | Provide your answer here. |
 | ------------------------- |
-| `reverse1`:               |
-| `reverse2`:               |
+| `reverse1`:    Time:  O(n), space: -           |
+| `reverse2`:    Time:  O(n/2), space: -         |
 
