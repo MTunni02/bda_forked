@@ -2,16 +2,7 @@
 
 Provide the solutions to the following questions using the `rockyou.txt` file.
 
-
-
-
 1. Count how many passwords start with the letter `'a'`.
-
-```python
-
-
-
-
 2. Count how many anagram groups exist in the password list.
    -  *Anagram:* Words that contain the same letters in a different order (e.g., `"listen"` and `"silent"`).
 3. Count how many passwords are palindromes.
