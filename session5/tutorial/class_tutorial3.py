@@ -26,6 +26,6 @@ def parallel_runner(secs):
 
 if __name__ == '__main__':
     #RUN HERE!
-    secs = [1,2,3,4,5,6]
-    # serial_runner(secs)
+    secs = [1,2,3,4,5,6,1,1,1,1,1,1,1,1,1,1,1,1,1]
+    serial_runner(secs)
     parallel_runner(secs)

@@ -46,9 +46,12 @@ if __name__ == '__main__':
 
 Using the code above, design a Python function named `generate_and_sort_numbers` that generates `n` number of floating-point numbers (e.g. 10,000), each randomly ranging from 0 to 100. The function uses the bubble sort method to sort numbers in ascending order,
 
+
 ```python
-def generate_and_sort_numbers():
-  numbers = []
+def generate_and_sort_numbers(n):
+    numbers = []
+    for i in range(n):
+        numbers[i] = np.random()
 	...
 
 	return numbers
@@ -104,4 +107,3 @@ if __name__ == '__main__':
 # Serial run was completed in 18.95 second(s)
 # Parallel run was completed in 6.63 second(s)
 ```
-
