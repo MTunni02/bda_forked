@@ -40,7 +40,7 @@ def parallel_runner(n):
     end = time.perf_counter()
     print(f"Parallel processing: {end-start} second(s)")
     print(processes)
-    print(type(processes))
+    print(type(processes[0]))
 
 if __name__ == '__main__':
     n = 3
