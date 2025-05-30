@@ -53,5 +53,5 @@ def parallel_downloader():
 
 if __name__ == '__main__':
     print(f"Downloading and processing {len(urls)} file(s)...")
-    serial_downloader()
+    #serial_downloader()
     parallel_downloader()
