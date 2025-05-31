@@ -57,4 +57,12 @@ Here are the file names of the photos.
 'photo-1550439062-609e1531270e.jpg'
 'photo-1549692520-acc6669e2f0c.jpg'
 ```
+```python
+
+def open_image(filename):
+
+
+```
+
+
 
