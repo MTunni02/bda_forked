@@ -54,4 +54,4 @@ if __name__ == '__main__':
     arange = 20000
     serial_runner2(arange)
     parallel_runner5(arange)
-    parallel_runner6(arange)
+    print(parallel_runner6(arange))
