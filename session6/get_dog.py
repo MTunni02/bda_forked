@@ -2,7 +2,6 @@
 # It prints the image URL and saves the image using the original filename from the URL.
 
 import requests, os
-print(requests.__version__)
 
 def fetch_and_save_dog_image(index):
     url = "https://dog.ceo/api/breeds/image/random"
