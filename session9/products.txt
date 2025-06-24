@@ -1,0 +1,11 @@
+product_id,product_name,category,price
+101,Phone,Electronics,599.99
+102,Tablet,Electronics,399.99
+103,Laptop,Electronics,999.99
+104,Monitor,Accessories,199.99
+105,Keyboard,Accessories,49.99
+106,Mouse,Accessories,29.99
+107,Printer,Office,149.99
+108,Webcam,Accessories,89.99
+109,Headphones,Accessories,129.99
+110,Smartwatch,Electronics,249.99
