@@ -1,0 +1,101 @@
+product_id,product_name,category,base_price
+301,Coffee Beans 1kg,Consumables,230.12
+302,Green Tea Pack,Consumables,338.05
+303,Printer Paper A4,Consumables,337.81
+304,Shampoo 250ml,Consumables,294.36
+305,AAA Batteries Pack,Consumables,412.1
+306,Hand Soap 500ml,Consumables,470.44
+307,Toilet Paper 12 Rolls,Consumables,58.63
+308,Energy Drink 500ml,Consumables,120.74
+309,Protein Bar Box,Consumables,17.39
+310,Face Masks 50-pack,Consumables,442.7
+311,Wireless Mouse,Electronics,282.9
+312,Bluetooth Headphones,Electronics,458.05
+313,Smartphone Charger,Electronics,114.58
+314,LED Monitor,Electronics,36.29
+315,Portable SSD,Electronics,412.81
+316,USB-C Hub,Electronics,455.15
+317,Smartwatch,Electronics,154.58
+318,Laptop Stand,Electronics,207.11
+319,Webcam 1080p,Electronics,74.19
+320,Mechanical Keyboard,Electronics,473.4
+321,Electric Kettle,Appliances,155.66
+322,Blender 1.5L,Appliances,248.85
+323,Microwave Oven,Appliances,53.11
+324,Toaster 4-Slice,Appliances,444.19
+325,Air Fryer,Appliances,72.15
+326,Vacuum Cleaner,Appliances,229.55
+327,Mini Fridge,Appliances,336.89
+328,Water Purifier,Appliances,372.85
+329,Rice Cooker,Appliances,473.26
+330,Clothes Iron,Appliances,212.47
+331,Ergonomic Office Chair,Furniture,372.42
+332,Adjustable Standing Desk,Furniture,81.49
+333,Bookshelf 5-Tier,Furniture,210.37
+334,Folding Table,Furniture,54.02
+335,Gaming Chair,Furniture,247.23
+336,Sofa Bed,Furniture,207.02
+337,Wooden Coffee Table,Furniture,476.0
+338,Dining Chair Set,Furniture,21.19
+339,TV Stand,Furniture,188.41
+340,Storage Cabinet,Furniture,224.47
+341,Electronics Item 341,Electronics,428.45
+342,Consumables Item 342,Consumables,490.56
+343,Appliances Item 343,Appliances,274.51
+344,Appliances Item 344,Appliances,34.97
+345,Appliances Item 345,Appliances,98.96
+346,Consumables Item 346,Consumables,474.76
+347,Furniture Item 347,Furniture,50.38
+348,Electronics Item 348,Electronics,322.64
+349,Consumables Item 349,Consumables,30.04
+350,Appliances Item 350,Appliances,125.57
+351,Electronics Item 351,Electronics,394.55
+352,Electronics Item 352,Electronics,38.96
+353,Electronics Item 353,Electronics,295.26
+354,Electronics Item 354,Electronics,167.64
+355,Electronics Item 355,Electronics,395.38
+356,Consumables Item 356,Consumables,142.25
+357,Electronics Item 357,Electronics,493.83
+358,Appliances Item 358,Appliances,400.26
+359,Consumables Item 359,Consumables,332.22
+360,Consumables Item 360,Consumables,70.24
+361,Appliances Item 361,Appliances,396.04
+362,Electronics Item 362,Electronics,296.48
+363,Consumables Item 363,Consumables,91.25
+364,Consumables Item 364,Consumables,67.75
+365,Furniture Item 365,Furniture,265.41
+366,Consumables Item 366,Consumables,240.74
+367,Appliances Item 367,Appliances,259.05
+368,Consumables Item 368,Consumables,228.74
+369,Electronics Item 369,Electronics,472.98
+370,Consumables Item 370,Consumables,364.99
+371,Appliances Item 371,Appliances,231.73
+372,Consumables Item 372,Consumables,35.11
+373,Furniture Item 373,Furniture,424.41
+374,Furniture Item 374,Furniture,344.62
+375,Furniture Item 375,Furniture,357.64
+376,Furniture Item 376,Furniture,41.38
+377,Consumables Item 377,Consumables,164.45
+378,Electronics Item 378,Electronics,37.51
+379,Appliances Item 379,Appliances,314.04
+380,Appliances Item 380,Appliances,193.55
+381,Appliances Item 381,Appliances,229.59
+382,Furniture Item 382,Furniture,54.09
+383,Consumables Item 383,Consumables,427.13
+384,Electronics Item 384,Electronics,217.88
+385,Electronics Item 385,Electronics,209.84
+386,Furniture Item 386,Furniture,202.37
+387,Consumables Item 387,Consumables,159.71
+388,Appliances Item 388,Appliances,334.23
+389,Appliances Item 389,Appliances,477.03
+390,Furniture Item 390,Furniture,38.23
+391,Consumables Item 391,Consumables,51.15
+392,Consumables Item 392,Consumables,373.57
+393,Appliances Item 393,Appliances,406.83
+394,Consumables Item 394,Consumables,295.3
+395,Appliances Item 395,Appliances,336.66
+396,Furniture Item 396,Furniture,180.03
+397,Furniture Item 397,Furniture,434.71
+398,Consumables Item 398,Consumables,484.36
+399,Appliances Item 399,Appliances,179.06
+400,Electronics Item 400,Electronics,81.59
